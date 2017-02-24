@@ -1,2 +1,2 @@
 # ludditemeet-space
-a space for luddites to meet online
+a real space for people who are afraid of technology to meet online!
