@@ -7,7 +7,7 @@ permalink: /classicgolds/
 <html>
   <head>
     <meta charset="utf-8">
-    <title>360&deg; Image</title>
+    <title>360&deg; Glassic Golds</title>
     <meta name="description" content="360&deg; Image - A-Frame">
     <script src="aframe-master.js"></script>
   </head>
