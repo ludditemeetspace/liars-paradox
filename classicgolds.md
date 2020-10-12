@@ -1,11 +1,8 @@
+---
 layout: page
 title: "classic golds"
 permalink: /classicgolds/
-
-testing
-
-testing
-testing
+---
 
 <html>
   <head>
