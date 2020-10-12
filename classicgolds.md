@@ -2,7 +2,6 @@ layout: page
 title: "classic golds"
 permalink: /classicgolds/
 
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
