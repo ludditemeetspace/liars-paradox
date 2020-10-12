@@ -9,11 +9,11 @@ permalink: /classicgolds/
     <meta charset="utf-8">
     <title>360&deg; Image</title>
     <meta name="description" content="360&deg; Image - A-Frame">
-    <script src=".../aframe-master.js"></script>
+    <script src="aframe-master.js"></script>
   </head>
   <body>
     <a-scene>
-      <a-sky src=".../1effectsResult.jpg" rotation="0 -130 0"></a-sky>
+      <a-sky src="1effectsResult.jpg" rotation="0 -130 0"></a-sky>
 
       <a-text font="kelsonsans" value="Classic Golds" width="6" position="-2.5 0.25 -1.5"
               rotation="0 15 0"></a-text>
